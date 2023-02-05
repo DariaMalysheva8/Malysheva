@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Malysheva</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="popular_text">Популярные</string>
+    <string name="favourites_text">Избранное</string>
+    <string name="genres_text">Жанры:</string>
+    <string name="countries_text">Страны:</string>
+    <string name="error_message">Произошла ошибка при загрузке данных,\nпроверьте подключение к сети</string>
+    <string name="btn_retry_text">Повторить</string>
+    <string name="error_description">Описание не доступно, проверьте подключение к интернету</string>
+    <string name="toast_internet_error_message">Отсутствует интернет соединение</string>
+</resources>
